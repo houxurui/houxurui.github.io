@@ -15,6 +15,14 @@ sidebar-about-description: "Goals determine what you going to be!"
 sidebar-avatar: /img/IMG_1896.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
+deploy:
+
+  type: git
+
+  repo: git@gitee.com:sakura/sakura.git
+
+  branch: master
+
 
 # SNS settings
 RSS: false
